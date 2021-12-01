@@ -21,5 +21,5 @@ app.get("/get-data", (req, res) => {
 
 //run the application
 app.listen(port, () => {
-    console.log(`running at port ${port}`);e
+    console.log(`running at port ${port}`);
 });
